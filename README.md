@@ -239,4 +239,4 @@ This repository serves as the official landing page for Serviio. The software is
 **Get the most recent version of Serviio today!**
 
 ---
-**Last updated:** 2026-11-06 01:55:47 UTC
+**Last updated:** 2026-11-06 08:49:20 UTC
